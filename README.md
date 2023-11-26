@@ -24,7 +24,7 @@ Other versions have not been checked.
 - Configure the wireless card to run in AP mode.
 - Run hostapd to create a Wi-Fi network with name `QuestAP`. A sample configuration file is provided as `hostapd.conf`
 - Run `script_check_in.py` to start sniffing the handshake frames and cracking. This script also prints out the cracked results on the screen.
-- Let students connect to the Wi-Fi with their IDs as passwords. 
+- Let students connect to the Wi-Fi with their IDs as passwords. They will observe wrong password prompt, and at the same time the computer will show their IDs on the laptop.
 
   
 
