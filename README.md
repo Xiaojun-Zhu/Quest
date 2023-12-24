@@ -1,9 +1,13 @@
 # Quest Implementation
 
-This project contains key source files for a paper submission. 
+This project contains key source files for the following paper.
+
+> Xiaojun Zhu, Hao Han. “Quest: Instant Questionnaire Collection from Handshake Messages using WLAN.” Wireless Networks, to appear.
+
+
 
 ## Objective
-The source files are for a particular task, student check-in, where student IDs are known in advance. These files how how we collect students IDs (as one particular questionnaire example) from a Wi-Fi network name 'QuestAP', by letting students connect to the Wi-Fi with their IDs as password.
+The source files are for a particular task, student check-in (in Section 9.2 of the paper), where student IDs are known in advance. These files show how we collect students IDs (as one particular questionnaire example) from a Wi-Fi network name 'QuestAP', by letting students connect to the Wi-Fi with their IDs as password.
 
 ## Hardware Requirements
 Need the following equipments
