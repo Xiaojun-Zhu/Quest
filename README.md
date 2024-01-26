@@ -2,7 +2,7 @@
 
 This project contains key source files for the following paper.
 
-> Xiaojun Zhu, Hao Han. “Quest: Instant Questionnaire Collection from Handshake Messages using WLAN.” Wireless Networks, to appear.
+> Xiaojun Zhu, Hao Han. “Quest: Instant Questionnaire Collection from Handshake Messages using WLAN.” Wireless Networks, available at https://doi.org/10.1007/s11276-023-03645-6, free view-only copy at https://rdcu.be/dwWLt
 
 ## Background: A Story
 In Fall 2014, I taught Computational Thinking for first-year students in NUAA. When it comes to the topic of networking, I designed an in-class experiment, where I set up a WLAN, students connect, opens a browser, and submits their student IDs. That is, first use networking for collecting student IDs, and then explain the underlying concepts (wirless network, webpage, http, IP address, etc.). It sounds to be a wonderful idea for teaching, and I still think so.  I spent a couple of days setting up the WLAN environment,  writing a webpage and deploying it on IIS. I even tested it several times, and the system worked well.
